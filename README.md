@@ -1,6 +1,8 @@
 ### Olá eu sou o Nathan Delanhese 👋
 
-- 🔭 Eu trabalho com Front-End
+- 🔭 Eu trabalho com Front-End Web
+- 📘 Estou me formando em Dev. de sistemas
+- 🔥 Sou Técnico em Informática, Formado
 - 🌱 Estou estudando React JS
 - 📫 Contate-me no e-mail: ndelanhese@gmail.com
 - ⚡ Veja meu portifólio: https://delanhese.tk
