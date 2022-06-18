@@ -4,8 +4,8 @@
 - 📘 Estou me formando em Dev. de sistemas
 - 🔥 Sou Técnico em Informática, Formado
 - 🌱 Estou estudando React JS
-- 📫 Contate-me no e-mail: ndelanhese@gmail.com
-- ⚡ Veja meu portifólio: https://delanhese.tk
+- 📫 Me mande um e-mail: <a href="mailto:ndelanhese@gmail.com">E-mail</a>
+- ⚡ Veja meu portifólio: <a href="https://delanhese.tk">Delanhese</a>  
 
 <div align="center">
   <a href="https://github.com/ndelanhese">
