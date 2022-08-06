@@ -1,4 +1,4 @@
-### Olá eu sou o Nathan Delanhese 👋
+### Olá eu sou o Nathan Delanhese <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
 - 🔭 Eu trabalho com Front-End Web
 - 📘 Estou me formando em Dev. de sistemas
