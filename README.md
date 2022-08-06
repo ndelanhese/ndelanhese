@@ -9,14 +9,14 @@
 
 <div align="center">
   <a href="https://github.com/ndelanhese">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndelanhese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndelanhese&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=ndelanhese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndelanhese&layout=compact&langs_count=7&theme=dracula"/>
     <br/>
     <img width="53%" src="https://github-readme-streak-stats.herokuapp.com?user=ndelanhese&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 <div style="display: inline_block"><br>
-  <img height="250em" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="260em" align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img  align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
