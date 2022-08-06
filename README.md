@@ -11,6 +11,7 @@
   <a href="https://github.com/ndelanhese">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ndelanhese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndelanhese&layout=compact&langs_count=7&theme=dracula"/>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ndelanhese)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
