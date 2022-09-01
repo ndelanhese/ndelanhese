@@ -7,7 +7,7 @@
 - 📫 Me mande um e-mail: <a  target="_blank" href="mailto:ndelanhese@gmail.com">E-mail</a>
 - ⚡ Veja meu portifólio: <a  target="_blank" href="https://delanhese.tk">Delanhese</a>  
 
-<div align="center">
+<div align="center" width="100%">
   <a href="https://github.com/ndelanhese">
   <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ndelanhese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
      <img height="150em" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=ndelanhese&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
