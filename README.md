@@ -47,5 +47,6 @@
   <a href="https://www.delanhese.tk" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
  
   ![Snake animation](https://github.com/ndelanhese/ndelanhese/blob/output/github-contribution-grid-snake.svg)
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ndelanhese.ndelanhese") />
+ 
 </div>
+ <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ndelanhese.ndelanhese") />
