@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
           USERNAME: ndelanhese
       - name: Commit & Push
         run: |
