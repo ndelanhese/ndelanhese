@@ -13,7 +13,7 @@
   <img style="width: 25rem; height: 9.85rem"  src="https://github-readme-stats.vercel.app/api?username=ndelanhese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
     <img style="width: 25rem; height: 9.85rem" src="https://github-readme-streak-stats.herokuapp.com?user=ndelanhese&theme=dracula&&hide_border=true&date_format=j%20M%5B%20Y%5D" />
      
-  <img style=" height: 9.85rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndelanhese&theme=dracula&hide_border=true&layout=compact&langs_count=5&locale=pt-br"/>
+  <img style=" height: 9rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndelanhese&theme=dracula&hide_border=true&layout=compact&langs_count=5&locale=pt-br"/>
     <img style=" height: 9.85rem; width: 31rem "  src="https://github-readme-stats.vercel.app/api/wakatime?username=ndelanhese&theme=dracula&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />
       
    </div>
