@@ -1,9 +1,8 @@
 ### Olá eu sou o Nathan Delanhese <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
-- 🔭 Eu trabalho com Front-End Web
+- 🔭 Eu trabalho como Dev. Web Full stack (NEXT JS + Node JS)
 - 📘 Estou me formando em Dev. de sistemas
 - 🔥 Sou Técnico em Informática, Formado
-- 🌱 Estou estudando React JS
 - 📫 Me mande um e-mail: <a  target="_blank" href="mailto:ndelanhese@gmail.com">E-mail</a>
 - ⚡ Veja meu portifólio: <a  target="_blank" href="https://delanhese.tk">Delanhese</a>  
 
